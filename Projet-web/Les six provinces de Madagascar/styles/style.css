@@ -1,0 +1,48 @@
+h1{
+    font-size: 52px;
+    margin-bottom: 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(37, 37, 37);
+    
+}
+#contenaire{
+    max-width: 1000px;
+    min-width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(245, 244, 244);
+    min-height: 1000px;
+    padding: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.boite{
+background-color: rgb(252, 252, 252);
+width:auto;
+padding: 50px;
+margin-bottom: 20px;
+box-shadow: 5px 3px 12px rgba(194, 194, 194, 0.377);
+}
+.boite>h2{
+    font-size: 43px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(47, 47, 47);
+}
+.boite>p{
+   
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 16px;
+   display: block;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   width: 85%;
+   line-height: 1.5em;
+  
+   
+   
+}
+.boite>img{
+justify-content: center;
+width: 85%;
+}
